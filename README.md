@@ -11,4 +11,4 @@ Sparklines to Impress-WIP
 Sparklines for Stock & Currency Trends (Pro Tip)-WIP
 
 Please Visit This Link:-
-https://docs.google.com/spreadsheets/d/1MtX7TOkSB_ydDqD39xelr8Kyzb4Cwss-gfmlJiYic_s/edit#gid=1229419666
+https://docs.google.com/spreadsheets/d/1MtX7TOkSB_ydDqD39xelr8Kyzb4Cwss-gfmlJiYic_s/edit#gid=0
